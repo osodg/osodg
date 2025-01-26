@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @osodg
 - 👀 I’m interested in cyber security
-- 🌱 I’m currently learning PNPT
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
